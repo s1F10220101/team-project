@@ -1,16 +1,19 @@
-img{
-    width: 400px;
-    height: 300px;
-}
-
 div{
     display: inline-block;
 }
 
 .image1{
     float: right;
+    width: 1000px;
+    height: 500px;
 }
 
-.image2{
+.text1{
+    float: right;
+}
+
+.slime{
     text-align: left;
+    width: 100px;
+    height: 100px;
 }
