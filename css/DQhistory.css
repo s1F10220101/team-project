@@ -2,7 +2,7 @@ div{
     display: inline-block;
 }
 
-.image1{
+.image01{
     float: right;
     width: 1000px;
     height: 500px;
@@ -13,7 +13,7 @@ div{
 }
 
 .slime{
-    text-align: left;
+    float: left;
     width: 100px;
     height: 100px;
 }
