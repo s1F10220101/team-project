@@ -66,3 +66,7 @@ h1.text_clip{
   #g_navi ul li a:hover{
     background-color: #000000;
   }
+
+  .image1{
+    float: right;
+}
