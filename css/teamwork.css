@@ -67,6 +67,11 @@ h1.text_clip{
     background-color: #000000;
   }
 
-  .image1{
+.image1{
     float: right;
+}
+.leftword{
+  width: 700px;
+  height: 466px;
+  margin-left: 8px;
 }
