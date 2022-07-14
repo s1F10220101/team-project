@@ -6,8 +6,6 @@
 @font-face{
     font-family: 'myFont';
     src: url('C:/Users/iniad/Documents/GitHub/team-project/font/DragonQuestFC/DragonQuestFC.woff') format('woff');
-    src: url('C:/Users/iniad/Documents/GitHub/team-project/font/DragonQuestFC/DragonQuestFC.woff2') format('woff2');
-    src: url('C:/Users/iniad/Documents/GitHub/team-project/font/DragonQuestFC/DragonQuestFC.eot') format('eot');
 }
 body {
     font-family: 'myFont';
